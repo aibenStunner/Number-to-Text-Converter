@@ -1,4 +1,3 @@
-[![Requirements Status](https://requires.io/github/aibenStunner/Number-to-Text-Converter/requirements.svg?branch=master)](https://requires.io/github/aibenStunner/Number-to-Text-Converter/requirements/?branch=master)
 ![](https://img.shields.io/maintenance/no/2018.svg)
 ![](https://img.shields.io/github/license/aibenStunner/Number-to-Text-Converter.svg)
 ![](https://img.shields.io/github/repo-size/aibenStunner/Number-to-Text-Converter.svg)
@@ -23,7 +22,7 @@ This is a simple number to text converter.
 
 ## Demo :video_camera:
 
-This is preview of the application.
+This is a preview of the application.
 
 ![](images/img.png)
 
